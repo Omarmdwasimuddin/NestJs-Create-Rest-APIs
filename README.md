@@ -161,7 +161,14 @@ export class StudentController {
 }
 ```
 
+#### POST
 ![](/public/Img/create.png)
+
+#### UPDATE
 ![](/public/Img/update.png)
+
+#### PATCH
 ![](/public/Img/patchUpdate.png)
+
+#### DELETE
 ![](/public/Img/deleted.png)
